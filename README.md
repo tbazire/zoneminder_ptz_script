@@ -1,5 +1,5 @@
 # zoneminder_ptz_script
-Programme utilisant le SDK Hikvision pour piloter les camera EZVIZ (tester sur EZVIZ C8C)
+Programme utilisant le SDK Hikvision pour piloter les cameras EZVIZ (tester sur EZVIZ C8C)
 
 ./ptz_control
 Usage:
